@@ -216,30 +216,6 @@ class Tortoise:
     
     def __str__(self):
         return f'Name: {self.get_name()}\tBirthdate: {self.get_birthdate()}\tBreed: {self.get_breed()}\tColor: {self.get_color()}'
-    
-
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
