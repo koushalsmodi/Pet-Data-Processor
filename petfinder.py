@@ -173,29 +173,6 @@ def sort_names(lstPets):
     pets_sorted = sorted(lstPets, key=lambda pet: pet.get_name()) # using sorted function as was mentioned in the docs
     for pet in pets_sorted:
         print(pet.get_name()) # getting name as stored in classes
-main()
-
-
-       
-
-
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-        
-        
-        
-        
+main()        
         
         
